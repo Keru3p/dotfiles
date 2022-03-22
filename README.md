@@ -2,4 +2,4 @@
 dotfiles for berrywm rice
 
 
-# Don't worry, be happy
+# don't worry, be happy
