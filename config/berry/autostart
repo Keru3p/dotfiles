@@ -29,6 +29,6 @@ berryc focus_follows_pointer "true"
 picom &
 compton --restore &
 nitrogen --restore &
-exec ~/.config/eww/arin/launch_bar &
-exec ~/.config/eww/arin/sidebar/toggle_sidebar &
+exec ~/.config/eww/launch_bar &
+exec ~/.config/eww/sidebar/toggle_sidebar &
 exec mpd &
