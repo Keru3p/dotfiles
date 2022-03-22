@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#quote="`fortune -n 90 -s | head -n 1`"
+quote="Persigo una verdad, escrita en un papel; de un sueño amenazado como el cielo de Babel" 
+echo "$quote"
