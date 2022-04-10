@@ -25,9 +25,9 @@ berryc draw_text   "false"
 berryc edge_lock   "false"
 berryc focus_follows_pointer "true"
 
-#Autostart
+# Autostart
 picom &
-compton --restore &
+#compton --restore &
 nitrogen --restore &
 exec ~/.config/eww/launch_bar &
 exec ~/.config/eww/sidebar/toggle_sidebar &
