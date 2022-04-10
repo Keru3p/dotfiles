@@ -16,7 +16,11 @@ alt + f
 	
 # Browser
 alt + w 
-	chromium
+	firefox
+
+# Geany
+alt + g
+	geany
 
 # Move around but keys
 super + {Left,Down,Up,Right}
