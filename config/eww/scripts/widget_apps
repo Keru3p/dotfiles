@@ -4,7 +4,7 @@ if [[ "$1" == "--tr" ]]; then
 	tilix ~ &
 
 elif [[ "$1" == "--ff" ]]; then
-	chromium &
+	firefox &
 
 elif [[ "$1" == "--fm" ]]; then
 	pcmanfm ~ &
@@ -19,10 +19,10 @@ elif [[ "$1" == "--tg" ]]; then
 	telegram-desktop &
 
 elif [[ "$1" == "--rd" ]]; then
-	chromium --new-tab "https://reddit.com"
+	firefox --new-tab "https://reddit.com"
 
 elif [[ "$1" == "--ml" ]]; then
-	chromium --new-tab "https://mail.google.com"
+	firefox --new-tab "https://mail.google.com"
 
 elif [[ "$1" == "--pow" ]]; then
 	xfce4-power-manager-settings &
